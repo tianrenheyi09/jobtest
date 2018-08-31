@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "拼多多820", "拼多多820\拼多多820.vcxproj", "{4C9C56D9-B05E-4F32-8D73-8DBAFF5168C2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "木块下落问题", "木块下落问题\木块下落问题.vcxproj", "{FF466D9B-EA4F-4350-AD10-51050A3C4B14}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "小数循环长度", "小数循环长度\小数循环长度.vcxproj", "{2C3D034C-3E12-4B7E-8382-F94F3FFD07E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "不重复的字符窜", "不重复的字符窜\不重复的字符窜.vcxproj", "{931780BC-52C6-46C4-991D-410C9ADD7E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C9C56D9-B05E-4F32-8D73-8DBAFF5168C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4C9C56D9-B05E-4F32-8D73-8DBAFF5168C2}.Debug|Win32.Build.0 = Debug|Win32
+		{4C9C56D9-B05E-4F32-8D73-8DBAFF5168C2}.Release|Win32.ActiveCfg = Release|Win32
+		{4C9C56D9-B05E-4F32-8D73-8DBAFF5168C2}.Release|Win32.Build.0 = Release|Win32
+		{FF466D9B-EA4F-4350-AD10-51050A3C4B14}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF466D9B-EA4F-4350-AD10-51050A3C4B14}.Debug|Win32.Build.0 = Debug|Win32
+		{FF466D9B-EA4F-4350-AD10-51050A3C4B14}.Release|Win32.ActiveCfg = Release|Win32
+		{FF466D9B-EA4F-4350-AD10-51050A3C4B14}.Release|Win32.Build.0 = Release|Win32
+		{2C3D034C-3E12-4B7E-8382-F94F3FFD07E9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2C3D034C-3E12-4B7E-8382-F94F3FFD07E9}.Debug|Win32.Build.0 = Debug|Win32
+		{2C3D034C-3E12-4B7E-8382-F94F3FFD07E9}.Release|Win32.ActiveCfg = Release|Win32
+		{2C3D034C-3E12-4B7E-8382-F94F3FFD07E9}.Release|Win32.Build.0 = Release|Win32
+		{931780BC-52C6-46C4-991D-410C9ADD7E00}.Debug|Win32.ActiveCfg = Debug|Win32
+		{931780BC-52C6-46C4-991D-410C9ADD7E00}.Debug|Win32.Build.0 = Debug|Win32
+		{931780BC-52C6-46C4-991D-410C9ADD7E00}.Release|Win32.ActiveCfg = Release|Win32
+		{931780BC-52C6-46C4-991D-410C9ADD7E00}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
